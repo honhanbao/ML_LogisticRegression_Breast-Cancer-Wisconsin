@@ -20,3 +20,8 @@ Also can be found on UCI Machine Learning Repository: https://archive.ics.uci.ed
    ### Code language:
    Python 3.9.7
 
+### Libraries:
+numpy, pandas, matplotlib, seaborn
+
+### Contact:
+<strong>Nhan Bao HO<strong>
