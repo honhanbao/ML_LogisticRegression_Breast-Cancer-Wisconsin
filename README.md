@@ -1,4 +1,4 @@
-# Machine Learning_LogisticRegression_Breast-Cancer-Wisconsin
+# Breast Cancer Wisconsin (Machine Learning, Logistic Regression)
 
    ### About Dataset
    https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
