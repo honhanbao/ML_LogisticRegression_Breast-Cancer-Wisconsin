@@ -11,11 +11,8 @@ Features are computed from a digitized image of a fine needle aspirate (FNA) of 
    cd math-prog/cpo-dataset/machine-learn/WDBC/
 
 Also can be found on UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
-   ### My project on Kaggle:
-   https://www.kaggle.com/code/nhanbaoho/logistic-regression-accuracy-97
-   
    ### Description:
-   In this project, Logistic Regression has been use to predict whether a person has presence of breast cancer based on physical features of cell nucleus of that person.
+   In this project, Logistic Regression has been used to predict whether a person has presence of breast cancer based on physical features of cell nucleus of that person.
    
    ### Code language:
    Python 3.9.7
